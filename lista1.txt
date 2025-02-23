@@ -5,4 +5,8 @@ primera linea de mirepobis
 =======
 esta es la tercera linea de mirepo
 >>>>>>> 24c71b9dba3de185673b8894bc0aea5cd1395826
+<<<<<<< HEAD
 ciruela
+=======
+pimientos
+>>>>>>> 4f20aad7dcd5fbc72c76d2ad4b31c723c13b8ccf
